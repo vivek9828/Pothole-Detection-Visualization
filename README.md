@@ -19,12 +19,19 @@ The goal of this repository is to detect potholes using segmentation algorithm i
 
 Follow the following steps to get started with contributing to the repository.
 
-- Clone the project to you local environment.
-  Use
-  `git clone https://github.com/utkarsh0702/Pothole-Detection-Visualization.git`
-  to get a copy of the source code to the desktop.
+- Clone the project to you local environment
+
+    `$ git clone https://github.com/utkarsh0702/Pothole-Detection-Visualization.git`
 
 - Make changes, work on a existing issue or create one. Once assigned you can start working on the issue.
+
+- Commit your changes and push your branch to GitHub
+
+    `$ git add .`
+    
+    `$ git commit -m "Your detailed description of your changes." `
+    
+    `$ git push origin name-of-your-bugfix-or-feature`
 
 - While you are working please make sure you follow standard programming guidelines. When you send us a PR, make sure you have updated your repository and is not overriding the existing code.
 
@@ -32,9 +39,9 @@ Follow the following steps to get started with contributing to the repository.
 
 - After logging into account and going to the respective Repository, Click on "Issues" button, located below the Title of Repository, as shown below.
 
-  ![ss](https://user-images.githubusercontent.com/54277039/94918186-af41d280-04cf-11eb-93b7-ffe9759d9cd5.JPG)
+  ![](https://github.com/utkarsh0702/Pothole-Detection-Visualization/blob/master/screenshot/issues_selected.png)
 
 - Now, many Issues will be visible, with their suitable labels for different purposes.
 
-  ![ss1](https://user-images.githubusercontent.com/54277039/94918272-dac4bd00-04cf-11eb-96bc-d4e5a67bd136.JPG)
+  ![](https://github.com/utkarsh0702/Pothole-Detection-Visualization/blob/master/screenshot/issues.png)
 
