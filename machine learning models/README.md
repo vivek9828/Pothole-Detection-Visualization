@@ -10,4 +10,4 @@ A **Deep learning model** is a neural network that has been trained to recognize
 
 ### Results
 
-<img src="Yolov4/results/predictions (1).jpg" width="300"/> <img src="Yolov4/results/predictions (3).jpg" width="300"/> <img src="Yolov4/results/predictions (4).jpg" width="300"/>
+<img src="Yolov4/results/predictions (1).jpg" width="300"/> <img src="Yolov4/results/predictions (3).jpg" width="300"/> <img src="Yolov4/results/predictions (4).jpg" width="224"/>
