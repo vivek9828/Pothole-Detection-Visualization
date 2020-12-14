@@ -6,4 +6,4 @@ A **machine learning model** is a file that has been trained to recognize certai
 
 ## Available Models
 
-- Retinanet Model
+- YOLO v4 Model
