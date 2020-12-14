@@ -7,3 +7,7 @@ A **machine learning model** is a file that has been trained to recognize certai
 ## Available Models
 
 - YOLO v4 Model
+
+### Results
+
+<img src="Yolov4/results/predictions (1).jpg" width="300"/> <img src="Yolov4/results/predictions (3).jpg" width="300"/> <img src="Yolov4/results/predictions (4).jpg" width="300"/>
