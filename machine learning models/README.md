@@ -13,6 +13,8 @@ No need for external setup, all materials are all set-up!
     
     [Download](https://drive.google.com/file/d/1-51oRamI-O2zUdUwIV82EKt_eBgjboc5/view) weights file
 
+2. [Test](https://github.com/Adk2001tech/Pothole-Detection-Visualization/blob/master/machine%20learning%20models/Yolov4/Notebook/Yolov4_pretrained.ipynb) on Yolo Pre-trained model.
+
         
 ### Results
 
