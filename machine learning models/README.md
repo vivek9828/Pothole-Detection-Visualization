@@ -7,7 +7,7 @@ A **Deep learning model** is a neural network that has been trained to recognize
 ## Available Models
 
 - YOLO v4 Model
-
+- [Download](https://drive.google.com/file/d/1-51oRamI-O2zUdUwIV82EKt_eBgjboc5/view) weights file
 ### Results
 
 <img src="Yolov4/results/predictions (1).jpg" width="300"/> <img src="Yolov4/results/predictions (3).jpg" width="300"/> <img src="Yolov4/results/predictions (4).jpg" width="224"/>
