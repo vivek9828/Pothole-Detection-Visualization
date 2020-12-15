@@ -9,7 +9,7 @@ A **Deep learning model** is a neural network that has been trained to recognize
 ### YOLO v4 Model
 
 1. [Try](https://github.com/Adk2001tech/Pothole-Detection-Visualization/blob/master/machine%20learning%20models/Yolov4/Notebook/Yolov4_Pothole_detection.ipynb) it on a fly:
-No need for external setup, all materials are all set-up!
+No need for external setup, materials are all set-up!
     
     [Download](https://drive.google.com/file/d/1-51oRamI-O2zUdUwIV82EKt_eBgjboc5/view) weights file
 
